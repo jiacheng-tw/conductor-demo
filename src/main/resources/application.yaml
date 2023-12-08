@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+conductor:
+  root-url: https://play.orkes.io/api/
+  api-key: fix-me
+  api-secret: fix-me
